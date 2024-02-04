@@ -1,3 +1,7 @@
+// In a sorted array, the ceiling of a value is the smallest element in the array that is greater than or equal to that value. The ceiling is the lower bound of the value. 
+// For example, if n=6, x=5, and a=[3, 4, 7, 8, 8, 10], then the floor and ceiling of x are 4 and 7, respectively
+
+
 package BinarySearch;
 
 import java.util.Arrays;
